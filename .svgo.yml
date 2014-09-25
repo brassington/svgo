@@ -43,5 +43,5 @@ plugins:
   - cleanupIDs
   - removeUnusedNS
   - transformsWithOnePath
-  - sortAttrs
+  - convertIdsToClassesAndSort
   - removeTitle
